@@ -7,8 +7,7 @@ Our NLP based application that looks at your CV and your dream job and shows you
 
 You can access the application of the project with the link below.
 
-https://ferhatkatar-idolizer-app-lwdg7m.streamlitapp.com/
-
+https://ferhatkatar-idolizer-nlp-streamlit-app-5ujnpp.streamlitapp.com/
 ------------------------
 TR: 
 
@@ -16,6 +15,5 @@ TR:
 
 Projenin uygulamasına aşağıdaki linkten ulaşabilirsiniz.
 
-https://ferhatkatar-idolizer-app-lwdg7m.streamlitapp.com/
-
+https://ferhatkatar-idolizer-nlp-streamlit-app-5ujnpp.streamlitapp.com/
 
