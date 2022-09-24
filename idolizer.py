@@ -4,18 +4,18 @@ import seaborn as sns
 
 # Stop Words
 import nltk
-# nltk.download("stopwords")
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 
 # TOKENIZER
 import textblob
 from textblob import TextBlob
-# nltk.download("punkt")
+nltk.download("punkt")
 
 # lemmatization
 from textblob import Word
-# nltk.download("wordnet")
-# nltk.download("omw-1.4")
+nltk.download("wordnet")
+nltk.download("omw-1.4")
 
 import joblib
 
@@ -34,7 +34,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Read data
-df = pd.read_excel("Dataset/job_post_data.xlsx")
+df = pd.read_excel("job_post_data.xlsx")
 df.reset_index(inplace=True, drop=True)
 
 
